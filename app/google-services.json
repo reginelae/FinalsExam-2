@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504813268382",
+    "firebase_url": "https://finalsexam.firebaseio.com",
+    "project_id": "finalsexam",
+    "storage_bucket": "finalsexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504813268382:android:87511c6ac27abfe5",
+        "android_client_info": {
+          "package_name": "com.usjr.finalsexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504813268382-egum8igo27pfkkcfcqc6kut3g5rvd0rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usjr.finalsexam",
+            "certificate_hash": "98772860E2BBC0F93AE62E76627F6D7BEB84E98D"
+          }
+        },
+        {
+          "client_id": "504813268382-i2g4mvgic6kjbrqalhe6prqtu8d4oc46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClTaAV17DN4XrY2NfAX3cABLXlaDL3k9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504813268382-i2g4mvgic6kjbrqalhe6prqtu8d4oc46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
